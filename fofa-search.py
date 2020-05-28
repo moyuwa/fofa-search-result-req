@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding:utf-8
 # python version 2.7
-# https://fofa.so/ 搜索结果提取 (内部版本)
+# https://fofa.so/ 搜索结果提取
 
 import urllib
 from bs4 import BeautifulSoup
