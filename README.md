@@ -9,4 +9,4 @@ fofaserach result reptile for not VIP user（fofa搜索结果爬取，非VIP用�
 非api方式调用
 会员用户根据代码注释，自行修改page=5限制
 
-
+如果系统不是gbk编码请修改code = key.decode('gbk') 为code = key.decode('utf-8')
