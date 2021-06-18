@@ -13,3 +13,4 @@ fofaserach result reptile for not VIP user（fofa搜索结果爬取，非VIP用�
 
 **fofa2.0更换了全部网页元素，脚本已无法使用，可做参考编写2.0的爬虫**
 
+以后有空再更新fofa2.0版本（鸽了）
