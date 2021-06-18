@@ -1,0 +1,21 @@
+{
+  "encode": "UTF-8",
+  "fofaapi": {
+    "email": "test@qq.com",
+    "apikey": ""
+  },
+  "fofabrowser": {
+    "_fofapro_ars_session": "",
+    "isvip": "True",
+    "CN_city": "False"
+  },
+  "query_list": [
+	"app=\"phpweb\" && country=\"CN\""
+  ],
+  "bak": [
+    "泛微OA",
+    "app=\"phpweb\" && country=\"CN\"",
+	"\"weblogic \" && country=\"US\" && port=\"7001\"",
+    "app=\"泛微-协同办公OA\" && country=\"CN\""
+  ]
+}

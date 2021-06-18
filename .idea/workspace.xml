@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d1a5909-1e11-4893-8ac2-ef99446aa304" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tnaYr9V4kXxNRhbkMGISetZLud" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fofabrowser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="fofa-search-result-req" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fofabrowser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fofabrowser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1a5909-1e11-4893-8ac2-ef99446aa304" name="Default Changelist" comment="" />
+      <created>1623407357788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623407357788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="381" key="#Notifications" timestamp="1623407446551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="381" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1623407446551" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623407388588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623407388588" />
+    <state x="656" y="111" key="#fofabrowser" timestamp="1623407395718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="111" key="#fofabrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1623407395718" />
+    <state width="1899" height="268" key="GridCell.Tab.0.bottom" timestamp="1624008018073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018073" />
+    <state width="1899" height="268" key="GridCell.Tab.0.center" timestamp="1624008018072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018072" />
+    <state width="1899" height="268" key="GridCell.Tab.0.left" timestamp="1624008018071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018071" />
+    <state width="1899" height="268" key="GridCell.Tab.0.right" timestamp="1624008018073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018073" />
+    <state width="1899" height="268" key="GridCell.Tab.1.bottom" timestamp="1624008018073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018073" />
+    <state width="1899" height="268" key="GridCell.Tab.1.center" timestamp="1624008018073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018073" />
+    <state width="1899" height="268" key="GridCell.Tab.1.left" timestamp="1624008018073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018073" />
+    <state width="1899" height="268" key="GridCell.Tab.1.right" timestamp="1624008018073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="268" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624008018073" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1624007018982">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1624007018982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
